@@ -1,0 +1,16 @@
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\bin\Debug\net8.0-windows\Mod2_Bai11.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\bin\Debug\net8.0-windows\Mod2_Bai11.deps.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\bin\Debug\net8.0-windows\Mod2_Bai11.runtimeconfig.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\bin\Debug\net8.0-windows\Mod2_Bai11.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\bin\Debug\net8.0-windows\Mod2_Bai11.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.Form1.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.csproj.GenerateResource.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.AssemblyInfoInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.AssemblyInfo.cs
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.csproj.CoreCompileInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\refint\Mod2_Bai11.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\Mod2_Bai11.genruntimeconfig.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Mod2_Bai11\obj\Debug\net8.0-windows\ref\Mod2_Bai11.dll
