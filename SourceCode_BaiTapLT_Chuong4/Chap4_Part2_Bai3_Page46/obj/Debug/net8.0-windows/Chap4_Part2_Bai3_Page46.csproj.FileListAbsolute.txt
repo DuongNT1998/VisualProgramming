@@ -1,0 +1,16 @@
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\bin\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\bin\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.deps.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\bin\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.runtimeconfig.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\bin\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\bin\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.Form1.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.csproj.GenerateResource.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.AssemblyInfoInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.AssemblyInfo.cs
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.csproj.CoreCompileInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\refint\Chap4_Part2_Bai3_Page46.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\Chap4_Part2_Bai3_Page46.genruntimeconfig.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\Buổi LT 4\Chap4_Part2_Bai3_Page46\obj\Debug\net8.0-windows\ref\Chap4_Part2_Bai3_Page46.dll

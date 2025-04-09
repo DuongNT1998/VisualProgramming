@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chuong4_Phan2_Bai1/1.0.0": {
+        "runtime": {
+          "Chuong4_Phan2_Bai1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuong4_Phan2_Bai1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
