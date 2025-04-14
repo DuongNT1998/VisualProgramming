@@ -1,4 +1,4 @@
-﻿namespace Mod3_Bai4
+namespace Mod3_Bai4
 {
     public partial class Form1 : Form
     {
@@ -9,31 +9,34 @@
 
         private void btnPTB1_Click(object sender, EventArgs e)
         {
+            txtHeSoThu1.Text = "";
+            txtHeSoThu1.ReadOnly = true;
 
             GiaiPTB1();
         }
         // Phương thức giải phương trình bậc 1: ax + b = 0
         private void GiaiPTB1()
         {
-            txtHeSoThu3.ReadOnly = true;
+        
             try
             {
-                double a = Convert.ToDouble(txtHeSoThu1.Text);
                 double b = Convert.ToDouble(txtHeSoThu2.Text);
+                double c = Convert.ToDouble(txtHeSoThu3.Text);
 
-                if (a == 0)
+                if (b == 0)
                 {
-                    txtKetQua.Text = (b == 0) ? "Phương trình vô số nghiệm" : "Phương trình vô nghiệm";
+                    lblKetQua.Text = (c == 0) ? "Phương trình vô số nghiệm" : "Phương trình vô nghiệm";
                 }
                 else
                 {
-                    double x = -b / a;
-                    txtKetQua.Text = "Nghiệm: x = " + x;
+                    double x = -c / b;
+                    lblKetQua.Text = "Nghiệm: x = " + x;
                 }
             }
             catch
             {
-                txtKetQua.Text = "Lỗi nhập liệu!";
+                MessageBox.Show("Đã có lỗi nhập liệu", "Lỗi nhập liệu", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
             }
         }
 
@@ -55,24 +58,24 @@
                     double delta = b * b - 4 * a * c;
                     if (delta < 0)
                     {
-                        txtKetQua.Text = "Phương trình vô nghiệm";
+                        lblKetQua.Text = "Phương trình vô nghiệm";
                     }
                     else if (delta == 0)
                     {
                         double x = -b / (2 * a);
-                        txtKetQua.Text = "Nghiệm kép: x = " + x;
+                        lblKetQua.Text = "Nghiệm kép: x = " + x;
                     }
                     else
                     {
                         double x1 = (-b + Math.Sqrt(delta)) / (2 * a);
                         double x2 = (-b - Math.Sqrt(delta)) / (2 * a);
-                        txtKetQua.Text = "Nghiệm x1 = " + x1 + ", x2 = " + x2;
+                        lblKetQua.Text = "Nghiệm x1 = " + x1 + ", x2 = " + x2;
                     }
                 }
             }
             catch
             {
-                txtKetQua.Text = "Lỗi nhập liệu!";
+                lblKetQua.Text = "Lỗi nhập liệu!";
             }
         }
     }
