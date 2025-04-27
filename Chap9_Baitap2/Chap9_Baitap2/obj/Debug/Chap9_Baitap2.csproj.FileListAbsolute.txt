@@ -1,0 +1,16 @@
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\bin\Debug\Chap9_Baitap2.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\bin\Debug\Chap9_Baitap2.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\bin\Debug\Chap9_Baitap2.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.csproj.AssemblyReference.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.Form1.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.Properties.Resources.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.csproj.GenerateResource.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.csproj.CoreCompileInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.KhoaForm.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.MonHocForm.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.NhapDiemForm.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.ThongKeKhoaForm.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.XemDiemForm.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Bài tập (LT)\BT Chuong 9\Chap9_Baitap2\Chap9_Baitap2\obj\Debug\Chap9_Baitap2.SinhVienForm.resources
