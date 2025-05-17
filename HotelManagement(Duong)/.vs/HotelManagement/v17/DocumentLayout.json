@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|e:\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|e:\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|e:\\hotelmanagement\\thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|solutionrelative:thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|e:\\hotelmanagement\\thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E62F81-0234-4FAE-B85A-EF19763B1133}|HotelManagement.csproj|solutionrelative:thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 94,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "E:\\HotelManagement\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "E:\\HotelManagement\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwLIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:51:46.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "E:\\HotelManagement\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "E:\\HotelManagement\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:51:36.484Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormThongKe.cs",
+              "DocumentMoniker": "E:\\HotelManagement\\ThongKe\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "ThongKe\\FormThongKe.cs",
+              "ToolTip": "E:\\HotelManagement\\ThongKe\\FormThongKe.cs*",
+              "RelativeToolTip": "ThongKe\\FormThongKe.cs*",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAYwKQAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:48:37.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "E:\\HotelManagement\\ThongKe\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "ThongKe\\FormThongKe.cs",
+              "ToolTip": "E:\\HotelManagement\\ThongKe\\FormThongKe.cs [Design]*",
+              "RelativeToolTip": "ThongKe\\FormThongKe.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:46:18.358Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
